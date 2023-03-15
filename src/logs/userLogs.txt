@@ -1,0 +1,33 @@
+el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /favicon.ico 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /products 
+ el usuario ingreso a la ruta: /products 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: /users/login 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /products 
+ el usuario ingreso a la ruta: /products/detail 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: /users/login 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /favicon.ico 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /products 
+ el usuario ingreso a la ruta: /products/detail 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: /users/login 
+ el usuario ingreso a la ruta: / 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: /users/register 
+ el usuario ingreso a la ruta: /admin 
+ el usuario ingreso a la ruta: /admin 
+ el usuario ingreso a la ruta: /admin?user=Ada 
+ el usuario ingreso a la ruta: /admin?user=Ada 
+ el usuario ingreso a la ruta: /admin?user=Ada 
+ 
